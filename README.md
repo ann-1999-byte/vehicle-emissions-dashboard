@@ -29,7 +29,8 @@ To analyze the relationship between vehicle specifications and CO₂ emissions u
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![image](https://github.com/user-attachments/assets/f0de2ddb-fbe0-4ed0-aa60-7d7ceb678169)
+
 
 ---
 
